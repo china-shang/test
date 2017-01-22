@@ -58,5 +58,6 @@ QGraphicsRectItem *rect;
      return app.exec();
      //:59 ++
     //now I do something
+     //now master do something too
 
  }
