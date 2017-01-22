@@ -1,0 +1,7 @@
+#binary file
+graphc
+main.o
+#other dir
+debug
+release
+
