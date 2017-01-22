@@ -58,4 +58,5 @@ QGraphicsRectItem *rect;
      print();
      return app.exec();
 
+     ji
  }
