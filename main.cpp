@@ -56,7 +56,5 @@ QGraphicsRectItem *rect;
      view1->show();
      print();
      return app.exec();
-    //now I do something
-     //now I make confict
 
  }
