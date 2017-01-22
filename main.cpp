@@ -1,6 +1,7 @@
 /*************************************************************************
     > File Name: main.cpp
     > Created Time: 2017年01月20日 星期五 21时38分07秒
+
  ************************************************************************/
  #include <QGraphicsView>
  #include <QPen>
@@ -56,6 +57,5 @@ QGraphicsRectItem *rect;
      view1->show();
      print();
      return app.exec();
-    //now I do something
 
  }
