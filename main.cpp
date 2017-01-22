@@ -56,7 +56,7 @@ QGraphicsRectItem *rect;
      view1->show();
      print();
      return app.exec();
-     //:59 ++
     //now I do something
+     //now I make confict
 
  }
