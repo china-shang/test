@@ -56,5 +56,6 @@ QGraphicsRectItem *rect;
      view1->show();
      print();
      return app.exec();
+     //:59 ++
 
  }
