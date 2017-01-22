@@ -57,8 +57,5 @@ QGraphicsRectItem *rect;
      print();
      return app.exec();
     //now I do something
-<<<<<<< HEAD
-=======
->>>>>>> new
 
  }
